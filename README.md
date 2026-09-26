@@ -1,1 +1,1 @@
-# Indoor-Exploration-IROS2026
+# OpenSpace Lab Indoor Exploration Solution

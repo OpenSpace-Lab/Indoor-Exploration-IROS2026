@@ -8,7 +8,7 @@ This is the official repository of **OpenSpace Lab** for the **[IROS 2026 Indoor
 
 ## Resources & Documentation
 
-- 📄 **Brief Report**: For a technical overview and summary of our approach, please check our [Technical Report (PDF)](https://github.com/OpenSpace-Lab/Indoor-Exploration-IROS2026/blob/main/OpenSpaceLab_Report.pdf).
+- 📄 **Brief Report**: For a technical overview and summary of our approach, please check our [Technical Report (PDF)](https://arxiv.org/pdf/2610.01505).
 
 ## Team Members
 

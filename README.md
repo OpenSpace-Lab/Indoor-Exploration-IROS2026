@@ -6,6 +6,14 @@ This is the official repository of **OpenSpace Lab** for the **[IROS 2026 Indoor
   <img src="https://github.com/OpenSpace-Lab/Indoor-Exploration-IROS2026/raw/main/cover.png" alt="Cover Image" width="80%">
 </p>
 
+<p align="center">
+  <img src="https://github.com/OpenSpace-Lab/Indoor-Exploration-IROS2026/raw/main/Certificate1.png" alt="Cover Image" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/OpenSpace-Lab/Indoor-Exploration-IROS2026/raw/main/Certificate2.png" alt="Cover Image" width="80%">
+</p>
+
 ## Resources & Documentation
 
 - 📄 **Brief Report**: For a technical overview and summary of our approach, please check our [Technical Report (PDF)](https://arxiv.org/pdf/2610.01505).
